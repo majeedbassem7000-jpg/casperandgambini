@@ -42,10 +42,10 @@ const HeroSection = () => {
         </div>
 
         <div className="mt-10 flex flex-col sm:flex-row items-center justify-center gap-4 animate-fade-in-up" style={{ animationDelay: '0.6s' }}>
-          <a href="#menu" className="px-8 py-3 bg-accent text-accent-foreground font-body font-medium tracking-wider uppercase text-sm hover:opacity-90 transition-opacity">
+          <a href="/menu" className="px-8 py-3 bg-accent text-accent-foreground font-body font-medium tracking-wider uppercase text-sm hover:opacity-90 transition-opacity">
             View Menu
           </a>
-          <a href="#contact" className="px-8 py-3 border border-primary-foreground/40 text-primary-foreground font-body font-medium tracking-wider uppercase text-sm hover:bg-primary-foreground/10 transition-colors">
+          <a href="tel:07707070711" className="px-8 py-3 border border-primary-foreground/40 text-primary-foreground font-body font-medium tracking-wider uppercase text-sm hover:bg-primary-foreground/10 transition-colors">
             Reserve a Table
           </a>
         </div>
