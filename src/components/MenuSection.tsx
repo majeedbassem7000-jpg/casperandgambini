@@ -53,9 +53,7 @@ const MenuSection = () => {
 
         <div className="text-center mt-12">
           <a
-            href="https://antventures.com"
-            target="_blank"
-            rel="noopener noreferrer"
+            href="/menu"
             className="inline-block px-8 py-3 border border-foreground/20 text-foreground font-body font-medium tracking-wider uppercase text-sm hover:bg-foreground/5 transition-colors"
           >
             View Full Menu
